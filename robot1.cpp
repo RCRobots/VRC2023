@@ -12,6 +12,7 @@
  *    VAL1: Speed to drive 1-100
  *    VAL2: PWM Frequence 2000 - 5000
  *
+ * We are going to add something for Git to detect..
  *
  */
 
