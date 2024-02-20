@@ -14,8 +14,13 @@
  *
  * We are going to add something for Git to detect..
  *
+ *<<<<<<< HEAD
  * This is the line added for the master-fix branch
  *
+ *=======
+ * This is changes added for the robot1_test branch in Git
+ * This should not appear in the master branch
+ *>>>>>>> robot1-test
  */
 
 #include <stdio.h>
