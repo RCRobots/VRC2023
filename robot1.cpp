@@ -14,6 +14,8 @@
  *
  * We are going to add something for Git to detect..
  *
+ * This is the line added for the master-fix branch
+ *
  */
 
 #include <stdio.h>
