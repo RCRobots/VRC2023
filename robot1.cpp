@@ -14,6 +14,8 @@
  *
  * We are going to add something for Git to detect..
  *
+ * This is changes added for the robot1_test branch in Git
+ * This should not appear in the master branch
  */
 
 #include <stdio.h>
